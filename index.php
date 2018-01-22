@@ -1,3 +1,1 @@
-?
-  echo "asda"
-?
+<title>APPUiO PHP Demo</title>
